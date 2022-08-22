@@ -1,0 +1,14 @@
+.tile {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(202, 202, 255);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.pieceImg {
+    width: 80px;
+
+}
